@@ -20,3 +20,6 @@ RGBLIGHT_ENABLE = no        # Enable WS2812 RGB underlight.
 
 LAYOUTS = ortho_4x12
 LAYOUTS_HAS_RGB = no
+
+
+DEBOUNCE_TYPE = sym_eager_pk
